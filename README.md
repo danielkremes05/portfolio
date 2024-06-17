@@ -11,7 +11,7 @@ Welcome to my first portfolio built with JavaScript! This project was created to
 
 ## Project Deployment
 
-Check out the deployed project here: **[Portfolio](https://portfolio-plcr.vercel.app/index.html/)**
+Check out the deployed project here: **[Portfolio](https://portfolio-one-smoky-81.vercel.app/)**
 
 ---
 
